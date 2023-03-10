@@ -1,12 +1,10 @@
 ## Theory of Everything
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/4605025/224206432-059b55cc-bec4-4b58-9a24-62690e3f43ac.png" width="400" alt="toEverything Logo" />
+<img src="https://user-images.githubusercontent.com/4605025/224206432-059b55cc-bec4-4b58-9a24-62690e3f43ac.png" width="400" alt="toEverything Logo" />
 </div>
 
-
-<h1 align="center">toEverything</h1>
-
+<h1 align="center">Toeverything</h1>
 
 ### About Us
 
