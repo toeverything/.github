@@ -1,7 +1,7 @@
 ## Theory of Everything
 
 <div align="center">
-<img src="images/cover.jpg" width="400" alt="toEverything Logo" />
+<img src="../images/cover.jpg" width="400" alt="toEverything Logo" />
 </div>
 
 <h1 align="center">ToEverything</h1>
